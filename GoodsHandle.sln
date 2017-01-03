@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodsHandle", "GoodsHandle\GoodsHandle.csproj", "{5E3EC382-D677-48E4-BA0A-19106195BC01}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "GoodsHandleCab", "GoodsHandleCab\GoodsHandleCab.vddproj", "{401A8713-FD42-4E6D-89DC-2C001D113756}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompactFormatterPlus", "..\..\CompactFormatterPlusSolution2\CompactFramework\CompactFormatterPlus\CompactFormatterPlus.csproj", "{D334E206-753A-40B6-B31A-6401B5554D6F}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOHelper", "..\..\CompactFormatterPlusSolution2\CompactFramework\ADOHelper\ADOHelper.csproj", "{9D1F0F0B-5B31-4353-88D2-11ABBDD95027}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISerial", "..\..\CompactFormatterPlusSolution2\CompactFramework\ISerial\ISerial.csproj", "{C94C0271-B1DD-4764-868F-90F298E05924}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E3EC382-D677-48E4-BA0A-19106195BC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3EC382-D677-48E4-BA0A-19106195BC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3EC382-D677-48E4-BA0A-19106195BC01}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5E3EC382-D677-48E4-BA0A-19106195BC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3EC382-D677-48E4-BA0A-19106195BC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3EC382-D677-48E4-BA0A-19106195BC01}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{401A8713-FD42-4E6D-89DC-2C001D113756}.Debug|Any CPU.ActiveCfg = Debug
+		{401A8713-FD42-4E6D-89DC-2C001D113756}.Release|Any CPU.ActiveCfg = Release
+		{D334E206-753A-40B6-B31A-6401B5554D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D334E206-753A-40B6-B31A-6401B5554D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D334E206-753A-40B6-B31A-6401B5554D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D334E206-753A-40B6-B31A-6401B5554D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1F0F0B-5B31-4353-88D2-11ABBDD95027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1F0F0B-5B31-4353-88D2-11ABBDD95027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1F0F0B-5B31-4353-88D2-11ABBDD95027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1F0F0B-5B31-4353-88D2-11ABBDD95027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94C0271-B1DD-4764-868F-90F298E05924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94C0271-B1DD-4764-868F-90F298E05924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94C0271-B1DD-4764-868F-90F298E05924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94C0271-B1DD-4764-868F-90F298E05924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
